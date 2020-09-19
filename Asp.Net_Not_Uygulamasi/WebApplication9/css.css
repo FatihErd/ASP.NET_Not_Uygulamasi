@@ -1,0 +1,24 @@
+﻿body{
+	font-family:arial;
+	font-size:14px
+}
+.navigation{
+	height: 40px;
+    margin-left: 45px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+}
+.navigation li{
+	float:left;
+	list-style-type:none;
+}
+.navigation li a{
+	background:#999999;color:#222;display:block;padding:13px 26px;text-decoration:none;text-align:center;font-weight:bolder;
+}
+.navigation li a:hover{background:#0069d4}
+.navigation li:first-child a{
+	border-radius:30px 0 0 30px;
+}
+.navigation li:last-child a{
+	border-radius:0px 30px 30px 0px;
+}

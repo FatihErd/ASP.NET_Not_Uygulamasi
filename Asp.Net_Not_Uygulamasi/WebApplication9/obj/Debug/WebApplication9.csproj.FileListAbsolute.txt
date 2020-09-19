@@ -1,0 +1,140 @@
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\ApplicationInsights.config
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\WebApplication9.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.xml
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.xml
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+c:\users\tohiba\documents\visual studio 2015\Projects\WebApplication9\WebApplication9\bin\CKEditor.NET.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\ApplicationInsights.config
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\CKEditor.NET.pdb
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.xml
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+C:\Users\TOHIBA\Desktop\myo\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\ApplicationInsights.config
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\CKEditor.NET.pdb
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.xml
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CoreCompileInputs.cache
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CopyComplete
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+C:\Users\TOHIBA\Desktop\Fatih Erdoğmuş-153531037 Not Defteri Projem\Proje\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\ApplicationInsights.config
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\CKEditor.NET.pdb
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.Web.xml
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojAssemblyReference.cache
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CoreCompileInputs.cache
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CopyComplete
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+C:\Users\TOHIBA\Desktop\153531037-Fatih Erdoğmuş\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
